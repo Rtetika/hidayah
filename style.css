@@ -1,0 +1,232 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+header{
+    overflow: hidden;
+    background-color: #242424;
+}
+.header-content{
+
+width: 90%;
+
+
+
+margin: auto;
+
+padding-top: 10px;
+
+padding-bottom: 8px;
+
+overflow: hidden;
+}
+.logo{
+
+width: 20%;
+}
+.logo h1{
+
+color: white;
+
+font-size: 36px;
+
+float: left;
+}
+nav{
+
+
+}
+nav ul{
+
+color: white;
+
+overflow: hidden;
+
+list-style: none;
+}
+nav ul li{
+
+float: right;
+
+margin-left: 2%;
+
+font-size: 26px;
+}
+nav ul li:hover{
+    background-color: #428CCB;
+    cursor: pointer;
+}
+.content{
+
+}
+.image{
+
+text-align: center;
+}
+.image img{
+    
+width: 46%;
+}
+.Top-feature{
+    
+    text-align: center;
+    overflow: hidden;
+    width: 90%;
+    margin: auto;
+    
+}
+.feature1{
+
+width: 30%;
+
+float: left;
+}
+.feature1 img{
+
+}
+.feature1 h3{
+
+color: #383838;
+}
+.feature1 p{
+
+color: #525252;
+}
+.feature2{
+
+width: 30%;
+
+float: left;
+
+margin-left: 5%;
+}
+.feature2 img{
+
+}
+.feature2 h3{
+    color: #383838;
+
+}
+.feature2 p{
+    color: #525252;
+
+}
+.feature3{
+
+width: 30%;
+
+float: right;
+}
+.feature3 img{
+
+}
+.feature3 h3{
+    color: #383838;
+
+}
+.feature3 p{
+    color: #525252;
+
+}
+.middle-feature{
+    text-align: center;
+    overflow: hidden;
+    padding-top: 80px;
+    width: 90%;
+    margin: auto;
+}
+.feature4{
+
+width: 45%;
+
+float: left;
+}
+.feature4 h3{
+    color: #383838;
+
+margin-bottom: 3%;
+}
+.feature4 p{
+    color: #525252;
+
+}
+.feature5{
+
+width: 45%;
+
+float: right;
+}
+.feature5 h3{
+    color: #383838;
+
+margin-bottom: 3%;
+}
+.feature5 p{
+    color: #525252;
+
+}
+.bottom-feature{
+    overflow: hidden;
+    width: 90%;
+    margin: auto;
+    padding-top: 80px;
+}
+.feature6{
+
+width: 50%;
+
+float: left;
+}
+.feature6 img{
+
+width: 93%;
+}
+.feature7{
+
+width: 50%;
+
+float: right;
+}
+.feature7 img{
+
+width: 93%;
+}
+footer{
+
+text-align: center;
+
+background-color: #242424;
+
+color: white;
+}
+footer img{
+
+width: 9%;
+}
+footer h5{
+
+padding-top: -1px;
+
+color: #89a3bb !important;
+
+display: inline;
+
+font-size: 14px;
+
+text-transform: capitalize;
+
+/* margin-top: 3%; */
+
+/* margin-bottom: 2px; */
+}
+footer p{
+    
+/* display: inline; */
+    
+margin-bottom: 5px;
+}
+footer h4{
+    display: inline;
+    font-size: 12px;
+}
